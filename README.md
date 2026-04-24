@@ -1,1 +1,1 @@
-# EduProject
+# KomikVerse
